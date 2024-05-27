@@ -1,0 +1,21 @@
+welcome to my car garage
+
+things youll be able to fo in my garage:
+    ADD = 1
+    DELETE = 2
+    PRINT = 3
+    UPDATE = 4
+    EXIT = 5
+    INFO = 6
+    RESET = 7
+
+
+
+    status :
+    ADD = 1 #done
+    DELETE = 2#done
+    PRINT = 3#done
+    UPDATE = 4#done
+    EXIT = 5#done
+    INFO = 6#done
+    RESET = 7#done
